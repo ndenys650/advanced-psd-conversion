@@ -1,0 +1,192 @@
+/*Universal Styles if any*/
+
+body { 
+	padding-top: 50px; 
+}
+
+/*Navbar and Jumbotron styles*/
+
+.navbar {
+	background-color: #ADD8E6;
+	border-color: #ADD8E6;
+}
+
+.navbar-btn {
+	background-color: #ADD8E6;
+	border-color: #ADD8E6;
+}
+
+.navbar-btn:hover {
+	background-color: #404040;
+	border-color: #404040;
+	color: #ADD8E6;
+}
+
+.jumbotron {
+	background-color: #ADD8E6;
+}
+
+.jumbotron h1 {
+	color: white;
+}
+
+/*abilities section*/
+
+.thumbnail {
+	text-align: center;
+	color: black;
+}
+
+/*works section*/
+
+.works {
+	text-align: center;
+	background-color: #92CCA6;
+}
+
+.works-button {
+	color: white;
+	border-color: #92CCA6;
+	background-color: #92CCA6; 
+}
+
+.works-button:hover {
+	color: white;
+	border-color: white;
+	background-color: #92CCA6; 
+}
+
+.works-button:active {
+	color: #92CCA6;
+	background-color: white; 
+}
+
+.works-show-more {
+	color: white;
+	border-color: #92CCA6;
+	background-color: #92CCA6; 
+}
+
+.works-show-more:hover {
+	color: white;
+	border-color: white;
+	background-color: #92CCA6;
+}
+
+.works-show-more:active {
+	color: #92CCA6;
+	background-color: white; 
+}
+
+/*Layered Section*/
+
+.layered {
+	background-color: grey;
+	padding-bottom: 2%;
+}
+
+.layered-button {
+	color: white;
+	border-color: #92CCA6;
+	background-color: #92CCA6; 
+}
+.layered-button-green {
+	color: white;
+	border-color: #ADD8E6;
+	background-color: #ADD8E6; 
+}
+
+/*Meet Our Team section*/
+
+.meet {
+	text-align: center;
+	background-color: pink;
+}
+
+.meet-title {
+	color: white;
+}
+
+.btn-social {
+    color: #fff;
+    border-radius: 50%;
+}
+
+.facebook {
+	background-color: #3b5998;
+	border-color: rgba(0,0,0,0.2);
+}
+
+.twitter {
+	color: #fff;
+    background-color: #55acee;
+    border-color: rgba(0,0,0,0.2);
+}
+
+.pinterest {
+	color: #fff;
+    background-color: #cb2027;
+    border-color: rgba(0,0,0,0.2);
+}
+
+/*Posts Section*/
+
+.posts {
+	background-color: #ADD8E6;
+	text-align: center;
+	padding-bottom: 2%;
+}
+
+.post-title {
+	color: white;
+}
+
+.posts-btn {
+	border-color: white;
+	background-color: white;
+	color: #ADD8E6;
+}
+
+.posts-btn:hover {
+	border-color: white;
+	background-color: #ADD8E6;
+	color: white;
+}
+
+/*Contact and Footer Section*/
+
+.base {
+	background-color: grey;
+}
+
+.contact {
+	text-align: center;
+}
+
+.contact-title {
+	color: white;
+}
+
+.form-btn {
+	background-color: white;
+	border-color: white;
+	padding: 10px;
+}
+
+.social {
+	padding-bottom: 15px;
+	float: left;
+}
+
+.footer {
+	background-color: black;
+	color: grey;
+}
+
+.copyright {
+	float: right;
+}
+
+.span {
+	color: yellow;
+}
